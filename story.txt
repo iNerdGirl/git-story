@@ -1,2 +1,3 @@
 Once upon a time there was a class full of tech students.
 And they were all there to learn web development.
+Some came to class better equipped than others, but that was the whole point.
